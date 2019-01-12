@@ -1,8 +1,8 @@
 # Lightspeed-Lifesaver 1.1
-Lightspeed Lifesaver, where you pilot a space ambulance and save helpless crashed astronauts. Top Down 2D Arcade Action!
+Lightspeed Lifesaver: Pilot a space ambulance and save helpless crashed astronauts.
 - Save the astronauts!
 - Dodge debris, meteors, and black holes! 
-- 20+ Levels!
+- Top Down 2D Arcade Action!
 
 ### Menu controls:
 Left/Right Arrow Keys - Toggle Left/Right
