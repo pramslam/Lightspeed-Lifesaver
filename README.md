@@ -1,4 +1,4 @@
-# Lightspeed-Lifesaver 1.1
+# Lightspeed Lifesaver 1.1
 Lightspeed Lifesaver: Pilot a space ambulance and save helpless crashed astronauts.
 - Save the astronauts!
 - Dodge debris, meteors, and black holes! 
